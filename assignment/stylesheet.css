@@ -1,0 +1,19 @@
+body {
+  background-image: gray;
+  color: Green;
+  font-family: Calibri;
+  margin: 5% 18%;
+}
+
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 3px solid #3a9340;
+  border-bottom: 3px solid #3a9340;
+  background-color: rgba(0,0,0, 0.1)
+
+}
+
+.info {
+background: blue;
+}
