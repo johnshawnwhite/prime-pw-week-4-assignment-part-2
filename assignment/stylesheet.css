@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 body{
-=======
-body {
->>>>>>> ddd10d3235cdaa0858d634a475dbdc08a153729f
   background-image: gray;
   color: Green;
   font-family: Calibri;
@@ -12,22 +8,15 @@ body {
 .header {
   text-align: center;
   text-transform: uppercase;
-<<<<<<< HEAD
   background-color: darkorange;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
   border-left: 5px solid black;
   border-right: 5px solid black;)
-=======
-  border-top: 3px solid #3a9340;
-  border-bottom: 3px solid #3a9340;
-  background-color: rgba(0,0,0, 0.1)
->>>>>>> ddd10d3235cdaa0858d634a475dbdc08a153729f
 
 }
 
 .info {
-<<<<<<< HEAD
 background: darkorange;
 text-align: center;
 text-decoration-color: black;
@@ -46,7 +35,4 @@ img {
 
 .h3 {
   text-align: center;
-=======
-background: blue;
->>>>>>> ddd10d3235cdaa0858d634a475dbdc08a153729f
 }
