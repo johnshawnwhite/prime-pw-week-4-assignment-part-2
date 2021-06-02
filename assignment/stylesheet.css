@@ -1,12 +1,13 @@
 body{
   background-image: gray;
-  color: Green;
+  color: tomato;
   font-family: Calibri;
   margin: 5% 18%;
 }
 
 .header {
   text-align: center;
+  color: green;
   text-transform: uppercase;
   background-color: darkorange;
   border-top: 5px solid black;
@@ -19,7 +20,7 @@ body{
 .info {
 background: darkorange;
 text-align: center;
-text-decoration-color: black;
+color: royalblue;
 border-top: 5px solid black;
 border-bottom: 5px solid black;
 border-left: 5px solid black;
@@ -35,4 +36,5 @@ img {
 
 .h3 {
   text-align: center;
+  color: purple;
 }
